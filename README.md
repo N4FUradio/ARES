@@ -1,5 +1,5 @@
-# featherweight
-Ultra fast, crowd-sourced gear weights search for ultralight gear
+# ARES GO BAG KIT GENERATOR
+https://n4furadio.github.io/ARES/
 
 ## Features
 
